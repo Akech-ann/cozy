@@ -1,0 +1,241 @@
+
+
+.anny{
+    background-size: cover;
+}
+
+.background{
+    background-image:url(/ann3.jpg);
+    width: 100%;
+    height: 800px;
+    background-position: center;
+    background-size: 100%;
+    text-align: center; 
+}
+.ann3 ul li {
+    display:inline-block;
+    padding: 2em;
+    line-height: 10px;
+    
+
+}
+.ann3{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+    margin-top: 0%;
+    
+}
+.ann4{
+    text-align: center;
+    font-family: sans-serif;
+}
+.btn{
+    padding: 10px;
+    background-color: #ffac7d;
+    border-radius: 10px;
+}
+.button{
+    border: 2px solid #555;
+    background-color: white;
+    height: 10%;
+    width: 30%;
+    display: flex;
+    gap: 250px;
+    margin: 10px;
+    border-radius: 15px;
+    padding: 4px 0px;
+
+}
+
+  
+
+.anne{
+    color: #ffac7d;
+}
+.montana{
+    width: 100%;
+}
+.montana1{
+    width: 90%;
+    height: 55%;
+    
+    
+}
+.montana2{
+    width: 100%;
+    
+}
+.monty{
+  display: flex;
+  justify-content: center;
+  gap: 5em;
+
+}
+.monty h1{
+text-align: center;
+}
+.ma{
+    width: 30%;
+}
+.me{
+    width: 30%;
+}
+.mi{
+    width: 27%;
+}
+.mo{
+    color: #ffac7d;
+}
+.you{
+    display: flex;
+    justify-content: center;
+    gap: 15em;
+    color: white;
+    text-align: center;
+}
+.mum{
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    
+
+}
+.planty{
+    width: 30%;
+    float: right;
+    padding: 2%;
+    margin-left: 30%;
+    
+    
+}
+.searchbox{
+            border: none;
+			border-radius: 5px;
+			padding: 10px;
+			font-size: 16px;
+			background-color:lightgrey;
+			width: 50%;
+			margin-right: 10px;
+}
+.searchbtn{
+    background-color: lightgrey;
+			color: white;
+			padding: 10px;
+			border: none;
+			border-radius: 4px;
+}
+.mont {
+    line-height:300%;
+    list-style: none;
+    text-align: center;
+    
+}
+ul{
+    color: black;
+}
+li ,a{
+    color: black;
+}
+.classy{
+    line-height: 400%;
+    text-align: center;
+}
+.esther{
+    text-align: center;
+}
+.ann11{
+    color: #ffffff;
+}
+.ann12{
+    color: #ffffff;
+}
+.mow{
+    text-align: center;
+    line-height: 300%;
+}
+.miw{
+    font-family: sans-serif;
+}
+.divine {
+    display: flex;
+    gap: 5em;
+    background-color: #002d3d;
+    color: white;
+    padding: 50px 30px;
+    
+}
+ul li {
+    list-style: none;
+}
+.wiw{
+ color: #ffac7d;   
+}
+.maria{
+ color: lightgrey;
+}
+.gubo{
+    background-color: #ffac7d;
+    border-radius: 5px;
+}
+.anni{
+    background-color: #002d3d;
+    margin-left: 15px;
+    margin-right: 15px;
+    gap: 5em;
+
+}
+.muw{
+    text-align: center;
+    background-color: #ffac7d;
+    padding: 10px;
+    border-radius: 10px;
+}
+.wow{
+    text-align: center;
+    padding: 25px;
+    
+}
+.ann12{
+    font-family: sans-serif;
+}
+
+.m{
+    background-color: #FFE5D6;
+}
+.a{
+    margin-left: 20%;
+}
+.b{
+    margin-right: 20%;
+}
+.wewe{
+    background-color: #FFE5D6;
+    padding: 5px;
+    border-radius: 10px;
+}
+.mimi{
+    padding-left: 20%;
+}
+.font{
+margin-left: 20%;
+
+}
+.p{
+    font-family: sans-serif;
+}
+.x{
+    color: black;
+}
+li{
+color:white;
+}
+.sonia{
+    border: solid peachpuff;
+    border-radius: 50%;
+    width: 350px;
+    height: 300px;
+    padding: 30px;
+    margin: 20px;
+    text-align: center;
+    background-color: peachpuff;
+}
